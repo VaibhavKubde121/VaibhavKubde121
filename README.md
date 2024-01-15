@@ -2,7 +2,7 @@
 ![github-header-image](https://github.com/VaibhavKubde121/VaibhavKubde121/assets/113769045/df8b52fe-7b8f-4ec0-94d9-403774d07ca5)
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" width="350" alt="coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkubde121&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkubde121" /> </p>
 
