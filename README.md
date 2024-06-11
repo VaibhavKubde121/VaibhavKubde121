@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Node js**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavkubde121.github.io/MyPortfolio/]([https://vaibhavkubde121.github.io/MyPortfolio/](https://6668a0ec79576329c6bb1094--soft-stardust-05df74.netlify.app/))
+- 👨‍💻 All of my projects are available at [[https://6668a0ec79576329c6bb1094--soft-stardust-05df74.netlify.app/]]
 
 - 💬 Ask me about **Web Development**
 
